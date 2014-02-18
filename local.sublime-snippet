@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[#local ${1:variable} = ${2:value} /]
+]]></content>
+	<tabTrigger>loc</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker local</description>
+</snippet>

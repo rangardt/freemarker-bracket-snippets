@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[@${1:macro} ${2:param}=${3:value} /]
+]]></content>
+	<tabTrigger>cmac</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker call macro</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[#assign ${1:variable} = [${2:}] /]
+]]></content>
+	<tabTrigger>seq</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker assign sequence</description>
+</snippet>

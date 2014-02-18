@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[#break /]
+]]></content>
+	<tabTrigger>brk</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker break</description>
+</snippet>

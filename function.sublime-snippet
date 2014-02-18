@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+[#function ${1:name} ${2:param}]
+	
+	[#return  /]
+[/#function]
+]]></content>
+	<tabTrigger>fun</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker function</description>
+</snippet>

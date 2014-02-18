@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[#assign ${1:variable} = ${2:value} /]
+]]></content>
+	<tabTrigger>an</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker assign</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[@${1:macro}]${2:}[/@${1:macro}]
+]]></content>
+	<tabTrigger>cmacne</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker call nested macro</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+[#if ${1:statement}]
+	
+[/#if]
+]]></content>
+	<tabTrigger>if</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker if</description>
+</snippet>

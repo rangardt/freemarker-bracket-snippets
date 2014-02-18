@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[#if ${1:variable}?has_content]${2:}[/#if] /]
+]]></content>
+	<tabTrigger>ifhc</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker if variable?has_conten</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+[#if ${1:statement}]
+	
+[#else]
+	
+[/#if]
+]]></content>
+	<tabTrigger>ife</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>if else</description>
+</snippet>

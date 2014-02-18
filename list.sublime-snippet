@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+[#list ${1:items} as ${2:item}]
+	
+[/#list]
+]]></content>
+	<tabTrigger>li</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker list</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[#include "${1:path}" /]
+]]></content>
+	<tabTrigger>inc</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker include</description>
+</snippet>

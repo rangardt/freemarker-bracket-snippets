@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+[#switch ${1:variable}]
+	[#case ${2:value}]
+		
+		[#break /]
+	[#case ${3:value}]
+		
+		[#break /]
+	[#case ${4:value}]
+		
+		[#break /]
+	[#default]
+		
+[/#swiitch]
+]]></content>
+	<tabTrigger>swi</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker switch case</description>
+</snippet>

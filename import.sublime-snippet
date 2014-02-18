@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+[#import "${1:path}" as ${2:alias} /]
+]]></content>
+	<tabTrigger>imp</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker import</description>
+</snippet>

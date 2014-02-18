@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+[#macro ${1:name} ${2:param}]
+	
+[/#macro]
+]]></content>
+	<tabTrigger>mac</tabTrigger>
+	<scope>text.html.ftl, text.plain</scope>
+	<description>Freemarker macro</description>
+</snippet>
