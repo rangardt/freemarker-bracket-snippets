@@ -12,7 +12,7 @@
 		[#break /]
 	[#default]
 		
-[/#swiitch]
+[/#switch]
 ]]></content>
 	<tabTrigger>swi</tabTrigger>
 	<scope>text.html.ftl, text.plain</scope>
